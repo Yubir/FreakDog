@@ -1,0 +1,88 @@
+html, body {
+    width: 100%
+    overflow-y: hidden;
+}
+
+body::-webkit-scrollbar{
+    width: 10px;
+    background-color: rgb(20, 20, 20);
+    
+}
+body::-webkit-scrollbar-thumb {
+    background: rgb(255, 255, 255);
+
+    border-radius: 100px;
+    box-shadow: inset 0px 0px 5px 1px rgb(0, 255, 221);
+}
+
+
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    transition: 1s;
+}
+
+#mail{
+    text-align: center;
+    text-decoration: none;
+    font-size: 200%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    transition: 0.1s;
+}
+
+#mail:hover{
+    color: rgb(126, 229, 255);
+}
+
+
+/* BAR */
+
+.bar{
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Silkscreen', cursive;
+}
+
+.mysong{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+
+}
+
+.github{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.file-server{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+/* BAT HOVER */
+
+.file-server:hover{
+    text-decoration: none;
+    color: rgb(83, 83, 255);
+}
+
+.mysong:hover{
+    text-decoration: none;
+    color: rgb(255, 126, 111);
+}
+
+.github:hover{
+    text-decoration: none;
+    color: rgb(171, 255, 88);
+}
