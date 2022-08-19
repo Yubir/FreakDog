@@ -1,6 +1,6 @@
 <p align="center">
- <img width="300px" src="https://cdn.discordapp.com/attachments/1003071222780805253/1010287353442598943/freak.png" align="center" alt="freak.dog" />
- <h2 align="center">freak.dog</h2>
+ <img width="300px" src="https://cdn.discordapp.com/attachments/1003071222780805253/1010287353442598943/freak.png" align="center" alt="Freak . Dog" />
+ <h2 align="center">Freak . Dog</h2>
 
 # CopyRight / 저작권
 <pre>
